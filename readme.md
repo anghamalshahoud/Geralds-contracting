@@ -61,3 +61,6 @@ Gerald has decided to commission you to build him a simple application to calcul
 I used the [yargs package] for the processing of the command line parameters. for more information go to [yargs package] website. 
 
 [yargs package]: https://www.npmjs.com/package/yargs
+
+##### ** Have fun!! **
+---
